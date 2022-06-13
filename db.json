@@ -1,0 +1,41 @@
+{
+  "product": [
+    {
+      "id": "cd1cc383f1d",
+      "name": "Pogba",
+      "price": "28",
+      "avatar": "upload/79c311a09e46cb451dbe5705e0d32c77"
+    },
+    {
+      "id": "16c0715e8d7",
+      "name": "Lakaka",
+      "price": "14",
+      "avatar": "upload/e310cb9111ad77ba9eb2d2f74bc49c4d"
+    },
+    {
+      "id": "03733be3838",
+      "name": "Kante",
+      "price": "65",
+      "avatar": "upload/9c15f848c35806201201fb90b0377935"
+    },
+    {
+      "id": "3733be3838f",
+      "name": "RollerPhan",
+      "price": "20",
+      "avatar": "upload/f1c5665444eb1f6ec9b5e4513b509140"
+    },
+    {
+      "id": "1fd2ea211d0",
+      "name": "GiaHu",
+      "price": "37",
+      "avatar": "upload/885b6b62e3836a0426e08a2e15fdb16c"
+    }
+  ],
+  "users": [
+    {
+      "id": "ba1bcdba3a4",
+      "name": "RollerPhan",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    }
+  ]
+}
